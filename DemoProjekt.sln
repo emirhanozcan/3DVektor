@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProjekt", "Demo Projekt\DemoProjekt.csproj", "{E6B58FFF-FE52-4DE2-A3C7-37CE3A96EB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoProjekt.Tests", "DemoProjekt.Tests\DemoProjekt.Tests.csproj", "{ADE4ECDC-001A-4FFA-84B5-E06690A0CA9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B58FFF-FE52-4DE2-A3C7-37CE3A96EB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B58FFF-FE52-4DE2-A3C7-37CE3A96EB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B58FFF-FE52-4DE2-A3C7-37CE3A96EB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B58FFF-FE52-4DE2-A3C7-37CE3A96EB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE4ECDC-001A-4FFA-84B5-E06690A0CA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE4ECDC-001A-4FFA-84B5-E06690A0CA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE4ECDC-001A-4FFA-84B5-E06690A0CA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE4ECDC-001A-4FFA-84B5-E06690A0CA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B9EE8E-B5F3-4210-A531-59560DD76909}
+	EndGlobalSection
+EndGlobal

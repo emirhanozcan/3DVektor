@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\DemoProjekt.Tests.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\DemoProjekt.Tests.pdb
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Demo Projekt.exe
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.assert.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.core.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Demo Projekt.pdb
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Demo Projekt.exe.config
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\obj\Debug\DemoProjekt.Tests.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\obj\Debug\DemoProjekt.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\obj\Debug\DemoProjekt.Tests.csproj.CopyComplete
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\obj\Debug\DemoProjekt.Tests.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\obj\Debug\DemoProjekt.Tests.pdb
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\source\repos\Demo Projekt\DemoProjekt.Tests\bin\Debug\Xamarin.Forms.Xaml.pdb

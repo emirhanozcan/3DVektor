@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Demo Projekt.exe.config
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Demo Projekt.exe
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Demo Projekt.pdb
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\Demo Projekt_MarkupCompile.cache
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\Demo Projekt_MarkupCompile.lref
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\Demo Projekt.g.resources
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\Demo_Projekt.Properties.Resources.resources
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\DemoProjekt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\DemoProjekt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\Demo Projekt.exe
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\Demo Projekt.pdb
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\DemoProjekt.csproj.CopyComplete
+C:\Users\User\source\repos\Demo Projekt\Demo Projekt\obj\Debug\DemoProjekt.csprojAssemblyReference.cache
